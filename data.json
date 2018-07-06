@@ -1,0 +1,21 @@
+{
+  "co":"this my sterngth",
+  "Achive":{
+    "details":"I wom a 1st price in my school days"
+  },
+  "education":[{
+    "name":"B. Tech :",
+    "inst":"Completed my B.Tech in SACET Chirala with 71% "
+    },
+  {
+    "name":"Intermediate :",
+    "inst":"Completed my Schooling in Intermediate,Chirala with 85%"
+
+  },
+  {
+    "name":"S S C :",
+    "inst":"Completed my Schooling in ZPH School,Vangipuram with 75% "
+    }
+
+  ]
+}
